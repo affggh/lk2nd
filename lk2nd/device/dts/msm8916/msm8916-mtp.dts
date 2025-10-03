@@ -2,8 +2,8 @@
 
 /dts-v1/;
 
-#include <skeleton.dtsi>
-#include <lk2nd.h>
+#include <skeleton64.dtsi>
+#include <lk2nd.dtsi>
 
 / {
 	compatible = "qcom,msm8916-mtp", "qcom,msm8916";
